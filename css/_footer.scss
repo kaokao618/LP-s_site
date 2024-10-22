@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+footer {
+  background-color: #3A3A3A;
+  text-align: center;
+  padding: 30px;
+
+  .logo {
+    img {
+      width: 100px;
+    }
+  }
+
+  p {
+    font-size: 0.65rem;
+    color: #fff;
+  }
+}
